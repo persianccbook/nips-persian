@@ -1,11 +1,11 @@
 [book]
-authors = ["نام شما"]
+authors = ["کیهان علیزاده"]
 language = "Fa"
 multilingual = false
 src = "src"
-title = "نام کتاب"
+title = "برگردان پارسی NIP های نوستر"
 text-direction = "rtl"
-description = "موضوع کتاب یا شرحی بر کتاب"
+description = "این مخزن شامل ترجمه محتوایت مخزن اصلیه نیپ ها (امکانات پیاده سازی نوستر) میباشد."
 
 [preprocessor]
 
@@ -16,9 +16,9 @@ assets_version = "2.1.0" # DO NOT EDIT: Managed by `mdbook-catppuccin install`
 
 [output.html]
 additional-css = ["./theme/catppuccin.css", "./theme/fonts.css", "./theme/catppuccin-admonish.css"]
-git-repository-url = "https://github.com/persianccbook"
+git-repository-url = "https://github.com/persianccbook/nips-persian"
 git-repository-icon = "fa-github"
-edit-url-template = "https://github.com/persianccbook/booktemplates/issues"
+edit-url-template = "https://github.com/persianccbook/nips-persian/issues"
 default-theme = "mocha"
 
 [output.html.search]
@@ -33,5 +33,3 @@ boost-paragraph = 1
 [output.html.print]
 enable = true    
 page-break = true
-
-
