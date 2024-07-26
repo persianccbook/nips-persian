@@ -3,9 +3,9 @@ authors = ["کیهان علیزاده"]
 language = "Fa"
 multilingual = false
 src = "src"
-title = "برگردان پارسی NIP های نوستر"
+title = "نوستر به پارسی"
 text-direction = "rtl"
-description = "این مخزن شامل ترجمه محتوایت مخزن اصلیه نیپ ها (امکانات پیاده سازی نوستر) میباشد."
+description = "این کتاب مرجعی برای یادگیری مطالعه و اموزش نوستر به زبان پارسی میباشد."
 
 [preprocessor]
 
