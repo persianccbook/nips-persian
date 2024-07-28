@@ -1,18 +1,18 @@
 # مقدمه
 
-- [مقدمه ای بر کتاب پارسی نوستر](./intro.md)
+- [مقدمه ای بر کتاب پارسی نوستر](./intro.rtl.md)
 
 # نوستر به زبان ساده
 
-- [مقدمه](./simple-nostr/intro-to-part-1.md)
-  - [نوستر چیست؟](./simple-nostr/quick-start-2.md)
+- [مقدمه](./simple-nostr/intro-to-part-1.rtl.md)
+  - [نوستر چیست؟](./simple-nostr/quick-start-2.rtl.md)
 
 # NIP ها به پارسی
 
-- [ترجمه NIP های نوستر](./nips/intro-1.md)
-  - [NIP شماره یک](./nips/nip-01.md)
+- [ترجمه NIP های نوستر](./nips/intro-1.rtl.md)
+  - [NIP شماره یک](./nips/nip-01.rtl.md)
 
 # نوستر برای توسعه دهندگان
 
-- [مقدمه](./nostr-for-devs/intro.md)
+- [مقدمه](./nostr-for-devs/intro.rtl.md)
 
