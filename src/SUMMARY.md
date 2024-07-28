@@ -11,6 +11,7 @@
 
 - [ترجمه NIP های نوستر](./nips/intro-1.rtl.md)
   - [NIP شماره یک](./nips/nip-01.rtl.md)
+  - [NIP شماره دو](./nips/nip-02.rtl.md)
 
 # نوستر برای توسعه دهندگان
 
