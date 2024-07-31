@@ -16,4 +16,8 @@
 # نوستر برای توسعه دهندگان
 
 - [مقدمه](./nostr-for-devs/intro.rtl.md)
+  - [چگونه یک رله نوستر اجرا کنیم؟](./nostr-for-devs/run-a-relay.rtl.md)
+  - [چگونه یک ربات نوستر بسازیم؟](./nostr-for-devs/make-a-bot.rtl.md)
 
+ <!--  افزودن ارتباط با امضا کنندگان نوستر -->
+ 
