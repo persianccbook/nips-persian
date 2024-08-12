@@ -13,6 +13,7 @@
   - [NIP شماره یک](./nips/nip-01.rtl.md)
   - [NIP شماره دو](./nips/nip-02.rtl.md)
   - [NIP شماره سه](./nips/nip-03.rtl.md)
+  - [NIP شماره چهار](./nips/nip-04.rtl.md)
 
 # نوستر برای توسعه دهندگان
 
